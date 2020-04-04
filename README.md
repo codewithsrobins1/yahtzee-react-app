@@ -10,7 +10,7 @@ For more rules and the scoring method, please see here, https://www.dicegamedepo
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/yahtzee-react-app/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
